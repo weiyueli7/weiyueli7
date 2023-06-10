@@ -1,16 +1,13 @@
-### Hi there 👋
+### About 💯
 
-<!--
-**weiyueli7/weiyueli7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an incoming 4th-year undergraduate student @UCSanDiego, a research assistant at @mlpc-ucsd, and a veteran tutor @dsc-courses. I will graduate in March 2024.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on sampling-efficient algorithms in computer vision.
+- 🌱 I'm currently learning energy-based models and sampling algorithms.
+- 📫 How to reach me:
+  - Email: wel019@ucsd.edu
+  - Instagram: larryliweiyue
+  - WeChat: GSWSCurry
+- ⚡ Fun fact: I am a BIG Chicago Bears fan 🐻⬇️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
