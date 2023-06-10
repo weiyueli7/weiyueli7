@@ -10,6 +10,6 @@ I am an incoming 4th-year undergraduate student @UCSanDiego. I will graduate in 
   - WeChat: GSWSCurry
 - ⚡ Fun fact: I am a BIG Chicago Bears fan 🐻⬇️
 
-Checkout [my website](weiyueli7.github.io) for more!
+Checkout [my website](https://weiyueli7.github.io/) for more!
 
 
