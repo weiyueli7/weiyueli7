@@ -13,3 +13,10 @@ I am an incoming 4th-year undergraduate student @UCSanDiego. I will graduate in 
 Checkout [my website](https://weiyueli7.github.io/) for more!
 
 
+<div class="repo p-2 text-center">
+  <a href="https://github.com/weiyueli7" rel="external nofollow noopener" target="_blank">
+    <img class="repo-img-light w-100" alt="weiyueli7" src="https://github-readme-stats.vercel.app/api/?username=weiyueli7&amp;theme=default&amp;show_icons=true">
+  </a>
+</div>
+
+
