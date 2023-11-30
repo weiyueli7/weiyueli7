@@ -20,3 +20,8 @@ Checkout [my website](https://weiyueli7.github.io/) for more!
 </div>
 
 
+<tr>
+  <td><img src="https://streak-stats.demolab.com?user=weiyueli7&ring=DD6304&theme=jolly" width="420"/> </td>
+</tr>
+
+
