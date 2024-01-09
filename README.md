@@ -1,27 +1,14 @@
 ### About 💯
 
-I am an incoming 4th-year undergraduate student @UCSanDiego. I will graduate in March 2024.
+I am a 4th-year undergraduate student at UC San Diego, expecting to graduate in March 2024.
 
-- 🔭 I'm currently working on sampling-efficient algorithms in computer vision.
-- 🌱 I'm currently learning energy-based models and sampling algorithms.
-- 📫 How to reach me:
-  - Email: wel019@ucsd.edu
-  - Instagram: larryliweiyue
-  - WeChat: GSWSCurry
-- ⚡ Fun fact: I am a BIG Chicago Bears fan 🐻⬇️
+I'm a Research Intern in the mlPC lab at UCSD, advised by Professor [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) and Dr. [Yifan Xu](https://yfxu.com/). I'm also working on my capstone project under the supervision of Professor [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/).
 
-Checkout [my website](https://weiyueli7.github.io/) for more!
+I'm currently applying to highly selective master's programs in computer science with a focus on AI/ML, specializing in multimodal Large Language Models (LLMs). I'm also seeking an internship opportunity in Summer 2024 in related fields.
 
+Check out [my website](https://weiyueli7.github.io/) for more!
 
-<div class="repo p-2 text-center">
-  <a href="https://github.com/weiyueli7" rel="external nofollow noopener" target="_blank">
-    <img class="repo-img-light w-100" alt="weiyueli7" src="https://github-readme-stats.vercel.app/api/?username=weiyueli7&amp;theme=default&amp;show_icons=true">
-  </a>
-</div>
+![GitHub Status](https://github-readme-stats-sigma-five.vercel.app/api?username=weiyueli7&theme=dark&show_icons=true&count_private=true)
 
-
-<tr>
-  <td><img src="https://streak-stats.demolab.com?user=weiyueli7&ring=DD6304&theme=jolly" width="420"/> </td>
-</tr>
 
 
